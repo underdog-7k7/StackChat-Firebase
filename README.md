@@ -1,2 +1,2 @@
 # StackChat_Externship_Project1
-Android Application with Kotlin
+A simple Chat Application using Kotlin and Jetpack Compose , and google firebase as a self sufficient Backend Server
