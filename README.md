@@ -4,3 +4,6 @@ A simple Chat Application using Kotlin and Jetpack Compose , and google firebase
 Project Document :- https://drive.google.com/drive/folders/1XsuHkHYc2oxwcDyiHVyu7VacVFF0MYox?usp=sharing
 
 Video Demonstration :- https://drive.google.com/drive/folders/1XsuHkHYc2oxwcDyiHVyu7VacVFF0MYox?usp=sharing
+
+Updated Readme and attached APK:
+
